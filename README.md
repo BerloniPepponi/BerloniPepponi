@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BerloniPepponi
+- 👀 I’m interested in both natural and programming languages.
+- 🌱 I’m currently learning Kotlin (JetPack Compose).
+- 💞️ I’m looking to work as Product Owner or Project Manager.
+- 📫 How to reach me by writing me through GitHub.
+- 😄 Pronouns: Thou, Thine, Thee
+- ⚡ Fun fact: I have got a degree in Linguistics.
